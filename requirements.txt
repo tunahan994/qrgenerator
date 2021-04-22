@@ -1,0 +1,4 @@
+tkinter
+pyqrcode
+qrcode
+os
